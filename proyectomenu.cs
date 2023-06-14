@@ -45,5 +45,5 @@ namespace Menu
                         }
                         break;
                     default:
-                        Console.WriteLine("Usted ha ingresado una opcion no valida intente de nuevo . :");
+                        Console.WriteLine("Usted ha ingresado una opcion no valida intente de nuevo. :");
                         break;
