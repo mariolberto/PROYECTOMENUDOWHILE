@@ -21,25 +21,25 @@ namespace Menu
                 switch (opcion)
                 {
                     case 1:
-                        Console.WriteLine("Has entrado a la opcion playeras 1");
-                        Console.WriteLine("presiona cualquier tecla para continuar");
+                        Console.WriteLine("HAS ENTRADO A LA OPCION PLAYERA 1");
+                        Console.WriteLine("PRESIONA CUALQUIER TECLA PARA CONTINUAR");
                         Console.ReadKey();
                         break;
                     case 2:
-                        Console.WriteLine("Has entrado a la opcion juguetes 2");
-                        Console.WriteLine("presiona cualquier tecla para continuar");
+                        Console.WriteLine("HAS ENTRADO A LA OPCION JUGUETE 2");
+                        Console.WriteLine("PRESIONA CUALQUIER TECLA PARA CONTINUAR");
                         Console.ReadKey();
                         break;
                     case 3:
-                        Console.WriteLine("Has entrado a la opcion llaveros 3");
-                        Console.WriteLine("presiona cualquier tecla para continuar");
+                        Console.WriteLine("HAS ENTRADO A LA OPCION LLAVEROS 3");
+                        Console.WriteLine("PRESIONA CUALQUIER TECLA PARA CONTINUAR");
                         Console.ReadKey();
                         break;
                     case 4:
-                        Console.WriteLine("Esta seguro que desea salir?");
-                        Console.WriteLine("si/no");
+                        Console.WriteLine("ESTAS SEGURO QUE DESEAS SALIR?");
+                        Console.WriteLine("SI/NO");
                         string deside = Console.ReadLine();
-                        if (deside == "si")
+                        if (deside == "SI")
                         {
                             continuar = false;
                         }
